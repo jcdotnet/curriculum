@@ -1,0 +1,229 @@
+JOSE CARLOS ROMÁN RUBIO 
+Software engineer  
+Website:  https://josecarlosroman.com  
+
+BACKGROUND
+2014
+Ingeniería técnica en Informática de Sistemas (3-year university degree focused on Computer 
+Engineering, Information Technology and Software Engineering). Final grade: NOTABLE. FYP 
+defended on 13th of March and marked as SOBRESALIENTE. University of Málaga.
+
+SKILLS
+== Computer science ==
+Total experience in years (Experience in years on projects to individuals, institutions and companies) 
+< Less than a year of experience > More than 10 years of experience 
+
+- Microsoft -
+C# 
+6 (5)
+TypeScript
+2 (0)
+Desktop (Windows Forms)
+4 (3) 
+Desktop (WPF)
+3 (2)
+ASP.NET
+2 (1)
+ASP.NET MVC
+1 (0)
+SOAP Web services (asmx)
+4 (3)
+SOAP Web services (WCF)
+1 (1)
+REST Web services (Web API)
+1 (0)
+Reporting Services (SSRS)
+1 (0)
+Analysis Services (SSAS)
+1 (1)
+
+- Oracle & Java -
+Java  
+4 (0)
+Java GUI (Swing, applets)
+1 (0)
+Java EE (servlets, JSP)
+1 (0)
+MySQL
+6 (4)
+Spring MVC 
+< (0)
+
+- Apache -
+HTTP server
+4 (3)
+Cordova
+1 (0)
+Struts
+< (0)
+Subversion
+1 (1)
+Tomcat
+1 (1)
+
+- Google -
+Android development 
+2 (<)
+Firebase
+1 (0)
+Git
+3 (0)
+Material Design 
+1 (0)
+
+- Apple -
+iOS development
+< (0)
+Objective C
+< (0)
+Swift
+< (0)
+
+== Web ==
+HTTP 
+> (4)
+REST API 
+4 (1)
+HTML (5)
+> (4) 
+CSS
+> (4)
+SASS
+2 (0)
+Bootstrap (3-4)
+3 (1)
+Foundation
+< (0)
+SEO
+1 (1)
+
+== JavaScript ==
+JavaScript (ES5-ES6)  
+> (4)
+Node.js, NPM
+3 (0)
+Express
+1 (0)
+Angular
+2 (0)
+React 
+< (0)
+Vue
+< (0)
+Ionic Framework
+1 (0)
+JS Library (jQuery)
+> (4)
+JS Library (rxJS)
+1 (0)
+JS Tools (Grunt, gulp)
+2 (0)
+JS Tools (Webpack) 
+1 (0)
+
+== PHP ==
+PHP 
+> (3)
+Laravel
+1 (0)
+Symfony 2/3
+< (0)
+WordPress 
+2 (2)
+Prestashop
+1 (<)
+Joomla!
+< (<)
+Drupal
+< (0)
+
+== Software development ==
+- Computer programming - 
+> (7)
+C/C++
+1 (0)
+Python
+< (0)
+
+== Databases ==
+SQL
+> (6)  
+Relational databases
+> (6)
+MongoDB
+1 (0)
+ORM (eloquent)
+1 (0)
+ORM (doctrine, EF, hibernate)  
+< (0)
+ODM (mongoose)
+1 (0)
+
+== Other == 
+Computer architecture  
+2 (<)
+Operating systems
+> (1)
+ Linux
+1 (<)
+Computer Networks 
+> (0)
+
+== Languages ==
+Upper-intermediate in written English.
+
+== Personal skills ==
+- Organized, critical thinking, good at solving problems, efficient, self-motivated
+
+PROJECTS
+2016/01 – 2016/09
+Healthcare desktop application. Skills: .NET, WPF, MySQL, Business Intelligence
+2012/10 – 2015/03
+Sports training software. Skills: .NET, winForms, web services, SQL Server.
+GitHub: https://github.com/jcdotnet
+
+EXPERIENCE
+2016/01 – present
+Software engineer. Self-employed
+2014/09 – 2014/11
+Programmer at Grupo JyA.
+2014/06 – 2014/09
+.NET and PHP Programmer at BOLT accelerator.
+2008/06 – 2010/01
+Owner and manager of a fashion and accessories shop.
+
+COURSES AND CERTIFICATES
+2017
+Front-End JavaScript Frameworks: Angular. Verified certificate and grade.
+2017
+Front-End UI Frameworks and tools: Bootstrap 4. Verified certificate and grade. 
+2017
+UDEMY: https://www.udemy.com/user/josecarlosromanrubio/ 
+2016
+Server-side development with nodeJS. Verified certificate and grade.
+2016
+Front-End JavaScript Frameworks: AngularJS. Verified certificate and grade.
+2016
+MongoDB using the MEAN stack. MongoDB. Self-paced. Grade achieved: 100%. 
+2015
+Web Application Development with JavaScript and MongoDB. University of London. Length: 4 
+weeks. Grade achieved: 100%
+2015
+Intro to meteor.js development. University of London. Duración: 4 semanas. Calificación: 92%.
+2015
+Interactive programming in Python. Rice university. Length: 8 weeks. Grade achieved: 100%
+2015
+HTML5.2x: Advanced techniques. W3C. Length: 4 weeks. Grade achieved: 86%
+2015
+Game programming with C#. UCCS. Length: 12 weeks. Grade achieved: 100%
+2015
+CS188.1x: Artificial Intelligence. UC Berkeley. Length: 12 weeks. Grade achieved: 84%.
+2015
+Programming Mobile Applications for Android Handheld Systems. University of Maryland. 
+Length: 8 weeks. Grade achieved: 94.8%.
+2012
+English B1 certificate. EOI Málaga
+2007
+Microsoft Certified Technology Specialist (.NET framework 2.0). Forman. Length: 670 hours.
+2006
+Desarrollo de aplicaciones J2EE with work experience in Novasoft. Forman. Length: 360 hours.
