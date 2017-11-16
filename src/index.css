@@ -1,5 +1,19 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;  
+  background-color: #f3f3f3;
+  color: #444; /* grises: 000 - 111 - 222 - 333 - 444 - 555 - 666 - 777 - 888 - 999 - AAA - BBB - CCC - DDD - EEE - FFF */
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: orange;
+}
+
+ul {
+  padding: 0;
 }

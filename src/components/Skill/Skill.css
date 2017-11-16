@@ -1,0 +1,17 @@
+.SkillName {
+    font-size: 16px;
+}
+
+.Skill ul{
+    list-style-type: none;
+}
+
+.Skill ul li{
+    display: inline-block;  
+    color: #FFF;
+    background: orange;
+    padding: 5px 10px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0.2rem;
+}

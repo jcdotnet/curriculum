@@ -1,0 +1,51 @@
+.Personal {
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+        
+    border-radius: 5px;
+    background: #FFF;
+    padding: 1rem 1.5rem;
+}
+
+.Personal h1 {
+    margin-top: 2rem;
+    margin-bottom: 0.2rem;
+    font-size: 20px;
+    font-weight: normal;  
+}
+
+.Personal h2 {
+    margin: 0;
+    margin-bottom: 1rem;
+    color: #999;
+    font-size: 22px;
+    font-weight: normal;
+    text-transform: capitalize;
+    letter-spacing: 0.1rem;
+}
+
+.Personal ul {
+    list-style-type: none;
+}
+
+.Avatar {
+    width: 200px;
+    border-radius: 50%;
+}
+
+.Personal ul li {    
+    display: flex;
+    font-size: 14px;
+}
+
+.Icon {
+    width: 1.2rem;
+    height: 1.2rem;
+    margin-right: 0.3rem;
+}
+
+.Personal p {
+    font-size: 15px;
+}

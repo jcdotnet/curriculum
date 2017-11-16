@@ -1,3 +1,21 @@
-.App {
-  text-align: center;
+.Content {
+  display: flex;
+  justify-content: center;
+}
+
+.Sidebar {
+  padding: 1rem;
+  flex: 1;
+}
+
+.Main {
+  padding: 1rem;
+  flex:2;
+}
+
+
+@media (max-width: 991px) {
+  .Content {
+    flex-direction: column;
+  }
 }

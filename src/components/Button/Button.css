@@ -1,0 +1,20 @@
+.Button {
+    background-color: transparent;
+    border: none;
+    color: #444;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    font-weight: bold;
+}
+.Button:hover {
+    color: orange;
+}
+
+.Success {
+    color: #149210;
+}
+
+.Danger {
+    color: #943a17;
+}

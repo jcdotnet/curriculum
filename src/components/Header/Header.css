@@ -1,0 +1,39 @@
+.Header {
+    height: 25vh;
+    background-image: linear-gradient(to right bottom, rgba(63, 62, 60, 0.7), rgba(209, 202, 193, 0.7)), url('../../assets/header.jpg');
+    background-size: cover;
+    background-position: top;
+
+    clip-path: polygon(0 0, 100% 0%, 100% 80%, 0% 100%);
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+    position: relative;
+}
+
+.HeaderText {
+    color:#F1F1F1;
+    text-transform: uppercase;
+}
+
+.HeaderTextTitle {
+    display: block;  /* span element is inline by default */
+    font-size: 60px;
+    font-weight: 400;
+    letter-spacing: 30px;
+}
+
+.HeaderTextSubtitle {
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 33px;
+}
+
+@media (max-width: 1099px) {
+    .Header {
+      display:none;
+    }
+}
