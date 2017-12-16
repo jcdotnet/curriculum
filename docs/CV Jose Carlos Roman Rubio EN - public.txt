@@ -1,6 +1,7 @@
 JOSE CARLOS ROMÁN RUBIO 
 Software engineer  
-Website:  https://josecarlosroman.com  
+Website:  https://josecarlosroman.com 
+Curriculum: https://github.com/jcdotnet/curriculum  
 
 BACKGROUND
 2014
@@ -13,8 +14,20 @@ SKILLS
 Total experience in years (Experience in years on projects to individuals, institutions and companies) 
 < Less than a year of experience > More than 10 years of experience 
 
-- Microsoft -
-C# 
+== Software development ==
+Computer programming 
+> (7)
+C/C++
+1 (0)
+Python
+< (0)
+Git
+3 (0)
+Subversion
+1 (1)
+
+== Microsoft ==
+C# (updated to C#6)
 6 (5)
 TypeScript
 2 (0)
@@ -36,47 +49,21 @@ Reporting Services (SSRS)
 1 (0)
 Analysis Services (SSAS)
 1 (1)
+Entity Framework
+< (0)
 
-- Oracle & Java -
-Java  
+== Oracle & Java ==
+Java  (updated to Java 9)
 4 (0)
-Java GUI (Swing, applets)
+Java GUI
 1 (0)
-Java EE (servlets, JSP)
+Java EE
 1 (0)
-MySQL
-6 (4)
-Spring MVC 
+Spring
 < (0)
-
-- Apache -
-HTTP server
-4 (3)
-Cordova
-1 (0)
-Struts
-< (0)
-Subversion
+Apache Tomcat
 1 (1)
-Tomcat
-1 (1)
-
-- Google -
-Android development 
-2 (<)
-Firebase
-1 (0)
-Git
-3 (0)
-Material Design 
-1 (0)
-
-- Apple -
-iOS development
-< (0)
-Objective C
-< (0)
-Swift
+Hibernate
 < (0)
 
 == Web ==
@@ -84,79 +71,85 @@ HTTP
 > (4)
 REST API 
 4 (1)
-HTML (5)
+HTML (updated version 5)
 > (4) 
-CSS
+CSS (updated CSS3)
 > (4)
 SASS
 2 (0)
-Bootstrap (3-4)
+Bootstrap (updated version 4 beta)
 3 (1)
 Foundation
 < (0)
 SEO
 1 (1)
+Firebase
+1 (0)
 
 == JavaScript ==
-JavaScript (ES5-ES6)  
+JavaScript (updated ES6)  
 > (4)
-Node.js, NPM
-3 (0)
-Express
-1 (0)
-Angular
-2 (0)
-React 
-< (0)
-Vue
-< (0)
-Ionic Framework
-1 (0)
 JS Library (jQuery)
 > (4)
 JS Library (rxJS)
 1 (0)
-JS Tools (Grunt, gulp)
-2 (0)
-JS Tools (Webpack) 
+Node.js, NPM
+3 (0)
+Express
 1 (0)
+Angular (updated version 5)
+2 (0)
+React (updated version 16) 
+< (0)
+Vue
+< (0)
+Ionic Framework (updated version 3)
+1 (0)
+Mongoose ODM
+1 (0)
+JS Tools (grunt, gulp, webpack)
+2 (0)
 
 == PHP ==
-PHP 
+PHP (updated to PHP7) 
 > (3)
-Laravel
+Composer
 1 (0)
-Symfony 2/3
+Laravel (updated version 5.5)
+1 (0)
+Symfony (updated version 3)
 < (0)
 WordPress 
 2 (2)
+WooCommerce
+2 (1)
 Prestashop
 1 (<)
 Joomla!
 < (<)
 Drupal
 < (0)
-
-== Software development ==
-- Computer programming - 
-> (7)
-C/C++
-1 (0)
-Python
+Doctrine ORM
 < (0)
+Eloquent ORM
+1 (0)
+
+== Mobile development ==
+Android development 
+2 (<)
+iOS development
+< (0)
+Material Design 
+1 (0)
 
 == Databases ==
 SQL
 > (6)  
 Relational databases
 > (6)
+MySQL
+6 (4)
 MongoDB
-1 (0)
-ORM (eloquent)
-1 (0)
-ORM (doctrine, EF, hibernate)  
-< (0)
-ODM (mongoose)
 1 (0)
 
 == Other == 
@@ -180,7 +173,6 @@ PROJECTS
 Healthcare desktop application. Skills: .NET, WPF, MySQL, Business Intelligence
 2012/10 – 2015/03
 Sports training software. Skills: .NET, winForms, web services, SQL Server.
-GitHub: https://github.com/jcdotnet
 
 EXPERIENCE
 2016/01 – present
@@ -194,22 +186,24 @@ Owner and manager of a fashion and accessories shop.
 
 COURSES AND CERTIFICATES
 2017
-Front-End JavaScript Frameworks: Angular. Verified certificate and grade.
+NativeScript. Coursera. Universidad de Hong Kong. Verified certificate. Grade achieved: 100%.
 2017
-Front-End UI Frameworks and tools: Bootstrap 4. Verified certificate and grade. 
+Ionic and Cordova. Coursera. Universidad de Hong Kong. Verified certificate. Grade achieved: 100%.
+2017
+Front-End JavaScript Frameworks: Angular. Coursera. Universidad de Hong Kong. Verified certificate. Grade achieved: 100%.
+2017
+Front-End UI Frameworks and Tools: Bootstrap 4. Coursera. Universidad de Hong Kong. Verified certificate. Grade achieved: 96%.
 2017
 UDEMY: https://www.udemy.com/user/josecarlosromanrubio/ 
 2016
-Server-side development with nodeJS. Verified certificate and grade.
-2016
-Front-End JavaScript Frameworks: AngularJS. Verified certificate and grade.
+Front-End JavaScript Frameworks: AngularJS. Coursera. Universidad de Hong Kong. Verified certificate. Grade achieved: 100%.
 2016
 MongoDB using the MEAN stack. MongoDB. Self-paced. Grade achieved: 100%. 
 2015
 Web Application Development with JavaScript and MongoDB. University of London. Length: 4 
 weeks. Grade achieved: 100%
 2015
-Intro to meteor.js development. University of London. Duración: 4 semanas. Calificación: 92%.
+Intro to meteor.js development. University of London. Duración: 4 semanas. Grade achieved: 92%.
 2015
 Interactive programming in Python. Rice university. Length: 8 weeks. Grade achieved: 100%
 2015

@@ -1,6 +1,7 @@
 JOSE CARLOS ROMÁN RUBIO 
 Desarrollo de aplicaciones informáticas  
-Página Web:  https://josecarlosroman.com  
+Página Web:  https://josecarlosroman.com 
+Curriculum: https://github.com/jcdotnet/curriculum 
 
 FORMACIÓN ACADÉMICA
 2014
@@ -12,8 +13,19 @@ CONOCIMIENTOS
 Años de experiencia (Años de experiencia en proyectos para particulares, instituciones o empresas) 
 < Menos de un año de experiencia > Más de 10 años de experiencia 
 
-- Microsoft -
-C# 
+== Desarrollo de Software == 
+> (7)
+C/C++
+1 (0)
+Python
+< (0)
+Git
+3 (0)
+Subversion
+1 (1)
+
+== Microsoft ==
+C# (actualizado versión 6) 
 6 (5)
 TypeScript
 2 (0)
@@ -35,47 +47,21 @@ Reporting Services (SSRS)
 1 (0)
 Analysis Services (SSAS)
 1 (1)
+Entity Framework
+< (0)
 
-- Oracle & Java -
-Java  
+== Java ==
+Java (actualizado Java 9)  
 4 (0)
-Java GUI (Swing, applets)
+Java GUI
 1 (0)
-Java EE (servlets, JSP)
+Java EE
 1 (0)
-MySQL
-6 (4)
-Spring MVC 
+Spring 
 < (0)
-
-- Apache -
-HTTP server
-4 (3)
-Cordova
-1 (0)
-Struts
-< (0)
-Subversion
+Apache Tomcat
 1 (1)
-Tomcat
-1 (1)
-
-- Google -
-Desarrollo Android 
-2 (<)
-Firebase
-1 (0)
-Git
-3 (0)
-Material Design 
-1 (0)
-
-- Apple -
-Desarrollo iOS
-< (0)
-Objective C
-< (0)
-Swift
+Hibernate
 < (0)
 
 == Web ==
@@ -83,79 +69,91 @@ HTTP
 > (4)
 REST API 
 4 (1)
-HTML (5)
+HTML (actualizado versión 5)
 > (4) 
-CSS
+CSS (actualizado versión 3)
 > (4)
 SASS
 2 (0)
-Bootstrap (3-4)
+Bootstrap (actualizado versión 4 beta)
 3 (1)
 Foundation
 < (0)
 SEO
 1 (1)
+Apache HTTP server
+4 (3)
+Firebase
+1 (0)
 
 == JavaScript ==
-JavaScript (ES5-ES6)  
+JavaScript (actualizado ES6)  
 > (4)
+JS Library (jQuery)
+> (4)
+JS Library (rxJS)
+1 (0)
 Node.js, NPM
 3 (0)
 Express
 1 (0)
-Angular
+Angular (actualizado versión 5)
 2 (0)
-React 
+React (actualizado versión 16) 
 < (0)
 Vue
 < (0)
 Ionic Framework
 1 (0)
-JS Library (jQuery)
-> (4)
-JS Library (rxJS)
+Apache Cordova
 1 (0)
-JS Tools (Grunt, gulp)
+NativeScript
+< (0)
+Mongoose ODM
+1 (0)
+JS Tools (grunt, gulp, webpack)
 2 (0)
-JS Tools (Webpack) 
-1 (0)
 
 == PHP ==
-PHP 
+PHP (actualizado PHP7)
 > (3)
-Laravel
+Composer 
 1 (0)
-Symfony 2/3
+Laravel (actualizado versión 5.5)
+1 (0)
+Symfony (actualizado versión 3)
 < (0)
 WordPress 
 2 (2)
+WooCommerce
+2 (1)
 Prestashop
 1 (<)
 Joomla!
 < (<)
 Drupal
 < (0)
-
-== Desarrollo de Software ==
-- Programación - 
-> (7)
-C/C++
-1 (0)
-Python
+Doctrine ORM
 < (0)
+Eloquent ORM
+1 (0)
+
+== Desarrollo Apps móviles ==
+Desarrollo Android (Android SDK & Android Studio)
+2 (<)
+Desarrollo iOS
+< (0)
+Material Design
+1 (0)
 
 == Bases de datos ==
 SQL
 > (6)  
 Bases de datos relacionales
 > (6)
+MySQL
+6 (4)
 MongoDB
-1 (0)
-ORM (eloquent)
-1 (0)
-ORM (doctrine, EF, hibernate)  
-< (0)
-ODM (mongoose)
 1 (0)
 
 == Otros == 
@@ -173,7 +171,7 @@ Inglés (reading, listening): Nivel intermedio / avanzado
 Inglés (writing, speaking): Nivel intermedio
 
 == Habilidades personales ==
-Autodidacta, creativo, eficiente, gran facilidad para aprender y resolver problemas.
+Autodidacta, creativo, eficiente, apasionado, gran facilidad para aprender y resolver problemas.
 
 PROYECTOS 
 2016/01 – 2016/09
@@ -182,7 +180,6 @@ Tecnologías usadas: .NET, C#, WPF, business intelligence, MySQL
 2012/10 – 2015/03
 Software de entrenamiento deportivo. http://goo.gl/Fqt5pT. 
 Tecnologías usadas: .NET, C#, winForms, ASP.NET, SQL Server, servicios Web
-GitHub: https://github.com/jcdotnet
 
 EXPERIENCIA
 2016/01 – actualidad
@@ -200,15 +197,17 @@ Agente censal. Instituto Nacional de Estadística (INE).
 
 CURSOS Y CERTIFICACIONES
 2017
-Front-End JavaScript Frameworks: Angular. Certificado verificado y calificación.
+NativeScript. Coursera. Universidad de Hong Kong. Certificado verificado. Calificación: 100%.
 2017
-Front-End UI Frameworks and Tools: Bootstrap 4. Certificate verificado y calificación.
+Ionic and Cordova. Coursera. Universidad de Hong Kong. Certificado verificado. Calificación: 100%.
+2017
+Front-End JavaScript Frameworks: Angular. Coursera. Universidad de Hong Kong. Certificado verificado. Calificación: 100%.
+2017
+Front-End UI Frameworks and Tools: Bootstrap 4. Coursera. Universidad de Hong Kong. Certificado verificado. Calificación: 96%.
 2017
 UDEMY: https://www.udemy.com/user/josecarlosromanrubio/ 
 2016
-Server-side development with nodeJS. Certificado verificado y calificación.
-2016
-Front-End JavaScript Frameworks: AngularJS. Certificado verificado y calificación. 
+Front-End JavaScript Frameworks: AngularJS. Coursera. Universidad de Hong Kong. Certificado verificado. Calificación: 100%.
 2016
 MongoDB using the MEAN stack. MongoDB. Self-paced. Calificación: 100%. 
 2015
