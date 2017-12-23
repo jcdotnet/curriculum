@@ -186,15 +186,9 @@ Owner and manager of a fashion and accessories shop.
 
 COURSES AND CERTIFICATES
 2017
-NativeScript. Coursera. Universidad de Hong Kong. Verified certificate. Grade achieved: 100%.
+UDEMY: https://www.udemy.com/user/josecarlosromanrubio/
 2017
-Ionic and Cordova. Coursera. Universidad de Hong Kong. Verified certificate. Grade achieved: 100%.
-2017
-Front-End JavaScript Frameworks: Angular. Coursera. Universidad de Hong Kong. Verified certificate. Grade achieved: 100%.
-2017
-Front-End UI Frameworks and Tools: Bootstrap 4. Coursera. Universidad de Hong Kong. Verified certificate. Grade achieved: 96%.
-2017
-UDEMY: https://www.udemy.com/user/josecarlosromanrubio/ 
+FULL STACK WEB AND MULTIPLATFORM MOBILE APP DEVELOPMENT. The Hong Kong Univesity of Science and Technology. Courses: (1) Front-End UI Frameworks and Tools: Bootstrap 4 (2) Front-End JavaScript Frameworks: Angular. (3) Ionic and Cordova (4) NativeScript (5) Server-side Development with NodeJS, Express and MongoDB. Verified certificate, courses and grade: https://www.coursera.org/account/accomplishments/specialization/B42RK6LRKY7X 
 2016
 Front-End JavaScript Frameworks: AngularJS. Coursera. Universidad de Hong Kong. Verified certificate. Grade achieved: 100%.
 2016
