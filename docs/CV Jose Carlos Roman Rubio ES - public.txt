@@ -53,15 +53,19 @@ Entity Framework
 == Java ==
 Java (actualizado Java 9)  
 4 (0)
-Java GUI
+Acceso a datos, JDBC 	
 1 (0)
-Java EE
+Java GUI	
 1 (0)
-Spring 
+Java EE	
+1 (<)
+Spring (actualizado ver5)	
 < (0)
-Apache Tomcat
+Apache Tomcat	
 1 (1)
-Hibernate
+Hibernate	
+< (0)
+Apache Maven	
 < (0)
 
 == Web ==
@@ -198,34 +202,49 @@ Agente censal. Instituto Nacional de Estadística (INE).
 CURSOS Y CERTIFICACIONES
 2017
 UDEMY: https://www.udemy.com/user/josecarlosromanrubio/
+
 2017
 FULL STACK WEB AND MULTIPLATFORM MOBILE APP DEVELOPMENT. Universidad científica y tecnológica de Hong Kong. Cursos: (1) Front-End UI Frameworks and Tools: Bootstrap 4 (2) Front-End JavaScript Frameworks: Angular. (3) Ionic and Cordova (4) NativeScript (5) Server-side Development with NodeJS, Express and MongoDB. Certificado verificado, cursos y calificación: https://www.coursera.org/account/accomplishments/specialization/B42RK6LRKY7X 
+
 2016
 Front-End JavaScript Frameworks: AngularJS. Coursera. Universidad de Hong Kong. Certificado verificado. Calificación: 100%.
+
 2016
 MongoDB using the MEAN stack. MongoDB. Self-paced. Calificación: 100%. 
+
 2015
 Web Application Development with JavaScript and MongoDB. University of London. Duración 4 
 semanas. Calificación: 100%
+
 2015
 Intro to meteor.js development. University of London. Duración: 4 semanas. Calificación: 92%.
+
 2015
 Interactive programming in Python. Universidad de Rice. Duración: 8 semanas. Calificación: 
 100%
+
 2015
 HTML5.2x: Advanced techniques. W3C. Duración: 4 semanas. Calificación: 94%
+
 2015
 Game Programming with C#. UCCS. Duración 12 semanas. Calificación: 100%
+
 2015
 DEV203x: Introduction to Bootstrap. Microsoft. Duración: 3 semanas. Calificación 94%
+
 2015
 CS188.1x: Artificial Intelligence. UC Berkeley. Duración: 12 semanas. Calificación 84%.
+
 2015
 Programming Mobile Applications for Android Handheld Systems. University of Maryland. 
 Duración: 8 semanas. Calificación: 94.8% 
+
 2012
 English B1 certificate. EOI Málaga
+
 2007
 Microsoft Certified Technology Specialist (.NET Framework 2.0). FORMAN. Duración: 670 horas.
+
 2006
-Desarrollo de aplicaciones J2EE con prácticas en Novasoft. FORMAN. Duración: 360 horas.
+Desarrollo de aplicaciones J2EE con prácticas en Novasoft. FORMAN. Duración: 360 horas. Temario: https://josecarlosroman.com/es/training/java-enterprise-temario/j2ee_temario
+Título: https://josecarlosroman.com/es/training/java-enterprise/j2ee_titulo

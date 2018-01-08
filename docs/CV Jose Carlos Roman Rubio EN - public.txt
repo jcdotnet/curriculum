@@ -53,17 +53,20 @@ Entity Framework
 < (0)
 
 == Oracle & Java ==
-Java  (updated to Java 9)
+Java (updated to Java 9)	
 4 (0)
-Java GUI
+Data Access / JDBC	
 1 (0)
-Java EE
+Java GUI	
 1 (0)
-Spring
+Java EE	1 (<)
+Spring core, Spring MVC (updated to Spring 5)	
 < (0)
-Apache Tomcat
+Apache Tomcat	
 1 (1)
-Hibernate
+Hibernate	
+< (0)
+Apache Maven	
 < (0)
 
 == Web ==
@@ -187,31 +190,44 @@ Owner and manager of a fashion and accessories shop.
 COURSES AND CERTIFICATES
 2017
 UDEMY: https://www.udemy.com/user/josecarlosromanrubio/
+
 2017
 FULL STACK WEB AND MULTIPLATFORM MOBILE APP DEVELOPMENT. The Hong Kong Univesity of Science and Technology. Courses: (1) Front-End UI Frameworks and Tools: Bootstrap 4 (2) Front-End JavaScript Frameworks: Angular. (3) Ionic and Cordova (4) NativeScript (5) Server-side Development with NodeJS, Express and MongoDB. Verified certificate, courses and grade: https://www.coursera.org/account/accomplishments/specialization/B42RK6LRKY7X 
+
 2016
 Front-End JavaScript Frameworks: AngularJS. Coursera. Universidad de Hong Kong. Verified certificate. Grade achieved: 100%.
+
 2016
 MongoDB using the MEAN stack. MongoDB. Self-paced. Grade achieved: 100%. 
+
 2015
 Web Application Development with JavaScript and MongoDB. University of London. Length: 4 
 weeks. Grade achieved: 100%
+
 2015
 Intro to meteor.js development. University of London. Duración: 4 semanas. Grade achieved: 92%.
+
 2015
 Interactive programming in Python. Rice university. Length: 8 weeks. Grade achieved: 100%
+
 2015
 HTML5.2x: Advanced techniques. W3C. Length: 4 weeks. Grade achieved: 86%
+
 2015
 Game programming with C#. UCCS. Length: 12 weeks. Grade achieved: 100%
+
 2015
 CS188.1x: Artificial Intelligence. UC Berkeley. Length: 12 weeks. Grade achieved: 84%.
+
 2015
 Programming Mobile Applications for Android Handheld Systems. University of Maryland. 
 Length: 8 weeks. Grade achieved: 94.8%.
+
 2012
 English B1 certificate. EOI Málaga
+
 2007
 Microsoft Certified Technology Specialist (.NET framework 2.0). Forman. Length: 670 hours.
+
 2006
-Desarrollo de aplicaciones J2EE with work experience in Novasoft. Forman. Length: 360 hours.
+Desarrollo de aplicaciones J2EE with work experience in Novasoft. Forman. Length: 360 hours. Course outline: https://josecarlosroman.com/en/training/java-enterprise-temario/j2ee_temario. Certificate of completion: https://josecarlosroman.com/en/training/java-enterprise/j2ee_titulo
