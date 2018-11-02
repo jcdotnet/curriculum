@@ -20,7 +20,7 @@ C/C++
 Python
 < (0)
 Git
-3 (0)
+3 (<)
 Subversion
 1 (1)
 
@@ -59,7 +59,7 @@ Java GUI
 1 (0)
 Java EE	
 1 (<)
-Spring (actualizado ver5)	
+Spring (core, MVC, AOP, actualizado ver5)	
 < (0)
 Apache Tomcat	
 1 (1)
@@ -76,7 +76,7 @@ REST API
 HTML (actualizado versión 5)
 > (4) 
 CSS (actualizado versión 3)
-> (4)
+> (5)
 SASS
 2 (0)
 Bootstrap (actualizado versión 4 beta)
@@ -92,19 +92,19 @@ Firebase
 
 == JavaScript ==
 JavaScript (actualizado ES6)  
-> (4)
+> (5)
 JS Library (jQuery)
-> (4)
+> (5)
 JS Library (rxJS)
 1 (0)
 Node.js, NPM
-3 (0)
+3 (<)
 Express
 1 (0)
 Angular (actualizado versión 5)
 2 (0)
 React (actualizado versión 16) 
-< (0)
+1 (<)
 Vue
 < (0)
 Ionic Framework
@@ -116,7 +116,7 @@ NativeScript
 Mongoose ODM
 1 (0)
 JS Tools (grunt, gulp, webpack)
-2 (0)
+2 (<)
 
 == PHP ==
 PHP (actualizado PHP7)
@@ -124,11 +124,11 @@ PHP (actualizado PHP7)
 Composer 
 1 (0)
 Laravel (actualizado versión 5.5)
-1 (0)
+2 (0)
 Symfony (actualizado versión 3)
 < (0)
 WordPress 
-2 (2)
+3 (3)
 WooCommerce
 2 (1)
 Prestashop
@@ -156,7 +156,7 @@ SQL
 Bases de datos relacionales
 > (6)
 MySQL
-6 (4)
+7 (5)
 MongoDB
 1 (0)
 

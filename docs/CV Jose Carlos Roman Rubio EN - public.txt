@@ -22,7 +22,7 @@ C/C++
 Python
 < (0)
 Git
-3 (0)
+3 (<)
 Subversion
 1 (1)
 
@@ -77,7 +77,7 @@ REST API
 HTML (updated version 5)
 > (4) 
 CSS (updated CSS3)
-> (4)
+> (5)
 SASS
 2 (0)
 Bootstrap (updated version 4 beta)
@@ -91,19 +91,19 @@ Firebase
 
 == JavaScript ==
 JavaScript (updated ES6)  
-> (4)
+> (5)
 JS Library (jQuery)
-> (4)
+> (5)
 JS Library (rxJS)
 1 (0)
 Node.js, NPM
-3 (0)
+3 (<)
 Express
 1 (0)
 Angular (updated version 5)
 2 (0)
 React (updated version 16) 
-< (0)
+1 (<)
 Vue
 < (0)
 Ionic Framework (updated version 3)
@@ -111,11 +111,11 @@ Ionic Framework (updated version 3)
 Mongoose ODM
 1 (0)
 JS Tools (grunt, gulp, webpack)
-2 (0)
+2 (<)
 
 == PHP ==
 PHP (updated to PHP7) 
-> (3)
+> (4)
 Composer
 1 (0)
 Laravel (updated version 5.5)
@@ -123,7 +123,7 @@ Laravel (updated version 5.5)
 Symfony (updated version 3)
 < (0)
 WordPress 
-2 (2)
+3 (3)
 WooCommerce
 2 (1)
 Prestashop
@@ -151,7 +151,7 @@ SQL
 Relational databases
 > (6)
 MySQL
-6 (4)
+7 (5)
 MongoDB
 1 (0)
 
