@@ -1,2 +1,2 @@
-Currículum en React: https://josecarlosroman.com 
-Currículum completo y actualizado en la carpeta DOCS del proyecto (formatos MS Word, PDF y texto).
+Currículum en React: https://curriculum.josecarlosroman.com  
+Currículum en MS Word, PDF y texto: https://github.com/jcdotnet/curriculum/tree/master/docs
