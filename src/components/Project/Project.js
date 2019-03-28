@@ -15,7 +15,7 @@ const project = (props) => {
             <h4> Descripción: </h4>
                 { description }
             <h4> Más información: </h4>
-            <a href={"https://josecarlosroman.com/es/proyecto/" + props.project.slug } target="_blank">{"https://josecarlosroman.com/es/proyecto/" + props.project.slug }</a>
+            <a href={"https://josecarlosroman.com/old/es/proyecto/" + props.project.slug } target="_blank">{"https://josecarlosroman.com/old/es/proyecto/" + props.project.slug }</a>
             
             {/*<span className={classes.Close} onClick={props.closed}>&times;</span> */}           
         </div>  

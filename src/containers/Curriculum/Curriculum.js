@@ -14,7 +14,7 @@ class curriculum extends Component {
     }
 
     componentDidMount() {
-        axios.get('https://josecarlosroman.com/api/proyectos/desc')
+        axios.get('https://josecarlosroman.com/old/api/proyectos/desc')
             .then( response =>  this.setState({projects: response.data}) )
             .catch( error => console.log(error) );     
     }
