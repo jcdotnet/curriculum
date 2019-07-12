@@ -1,7 +1,6 @@
-import React, { Component } from 'react';
+import React, { Component, Fragment } from 'react';
 import classes from './CustomList.css';
 import Sprite from '../../assets/sprite.svg';
-import Wrapper from '../../hoc/Wrapper/Wrapper';
 import Button from '../Button/Button';
 import Modal from '../Modal/Modal';
 import Spinner from '../Spinner/Spinner';
@@ -47,13 +46,13 @@ class cvList extends Component {
             }
 
             lista = 
-                <Wrapper>
+                <Fragment>
                     <ul> 
                     { this.props.items.map( (item, index) => <li key={index}><svg className={classes.ListIcon}><use xlinkHref={icon}></use></svg>
                         {item} { this.renderButton(index) }</li>) }
                     </ul>                          
                     { modal }
-                </Wrapper>
+                </Fragment>
         }
 
         return (  

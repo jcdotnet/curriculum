@@ -1,6 +1,5 @@
-import React, { Component } from 'react';
+import React, { Component, Fragment } from 'react';
 import classes from './Section.css';
-import Wrapper from '../Wrapper/Wrapper';
 import Sprite from '../../assets/sprite.svg';
 
 class cvSection extends Component { 
@@ -24,7 +23,7 @@ class cvSection extends Component {
         }
 
         return (
-            <Wrapper>
+            <Fragment>
                 <div className={classes.SectionHeader} onClick={this.toggleSectionHandler}>
                     <h3>{this.props.title}</h3>
                     <svg className={classes.SectionHeaderIcon}>
@@ -35,7 +34,7 @@ class cvSection extends Component {
                 <main style={contentStyle}>
                     {this.props.children}
                 </main>
-            </Wrapper>
+            </Fragment>
         )
     }
 }
