@@ -10,165 +10,46 @@ Calificación total: NOTABLE. Calificación proyecto fin de carrera: SOBRESALIENTE
 
 CONOCIMIENTOS
 == Informática ==
-Años de experiencia (Años de experiencia en proyectos para particulares, instituciones o empresas) 
-< Menos de un año de experiencia > Más de 10 años de experiencia 
 
-== Desarrollo de Software == 
-> (7)
-C/C++
-1 (0)
-Python
-< (0)
-Git
-3 (<)
-Subversion
-1 (1)
+>5) Más de 5 años de experiencia:
 
-== Microsoft ==
-C# (actualizado versión 6) 
-6 (5)
-TypeScript
-2 (0)
-Desktop (Windows Forms)
-4 (3) 
-Desktop (WPF)
-3 (2)
-ASP.NET
-2 (1)
-ASP.NET MVC
-1 (0)
-SOAP Web services (asmx)
-4 (3)
-SOAP Web services (WCF)
-1 (1)
-REST Web services (Web API)
-1 (0)
-Reporting Services (SSRS)
-1 (0)
-Analysis Services (SSAS)
-1 (1)
-Entity Framework
-< (0)
-
-== Java ==
-Java (actualizado Java 9)  
-4 (0)
-Acceso a datos, JDBC 	
-1 (0)
-Java GUI	
-1 (0)
-Java EE	
-1 (<)
-Spring (core, MVC, AOP, actualizado ver5)	
-< (0)
-Apache Tomcat	
-1 (1)
-Hibernate	
-< (0)
-Apache Maven	
-< (0)
-
-== Web ==
-HTTP 
-> (4)
-REST API 
-4 (1)
-HTML (actualizado versión 5)
-> (4) 
-CSS (actualizado versión 3)
-> (5)
-SASS
-2 (0)
-Bootstrap (actualizado versión 4 beta)
-3 (1)
-Foundation
-< (0)
-SEO
-1 (1)
-Apache HTTP server
-4 (3)
-Firebase
-1 (0)
-
-== JavaScript ==
-JavaScript (actualizado ES6)  
-> (5)
-JS Library (jQuery)
-> (5)
-JS Library (rxJS)
-1 (0)
-Node.js, NPM
-3 (<)
-Express
-1 (0)
-Angular (actualizado versión 5)
-2 (0)
-React (actualizado versión 16) 
-1 (<)
-Vue
-< (0)
-Ionic Framework
-1 (0)
-Apache Cordova
-1 (0)
-NativeScript
-< (0)
-Mongoose ODM
-1 (0)
-JS Tools (grunt, gulp, webpack)
-2 (<)
-
-== PHP ==
-PHP (actualizado PHP7)
-> (3)
-Composer 
-1 (0)
-Laravel (actualizado versión 5.5)
-2 (0)
-Symfony (actualizado versión 3)
-< (0)
-WordPress 
-3 (3)
-WooCommerce
-2 (1)
-Prestashop
-1 (<)
-Joomla!
-< (<)
-Drupal
-< (0)
-Doctrine ORM
-< (0)
-Eloquent ORM
-1 (0)
-
-== Desarrollo Apps móviles ==
-Desarrollo Android (Android SDK & Android Studio)
-2 (<)
-Desarrollo iOS
-< (0)
-Material Design
-1 (0)
-
-== Bases de datos ==
-SQL
-> (6)  
-Bases de datos relacionales
-> (6)
+C#
+CSS
+HTML
+JavaScript (>6)
+jQuery
 MySQL
-7 (5)
-MongoDB
-1 (0)
+PHP
+Programación (>8)
+SQL
+Desarrollo Web (>6)
 
-== Otros == 
-Arquitectura de computadores  
-2 (<)
-Sistemas operativos
-> (1)
-Linux
-1 (<)
-Redes 
-> (0)
+>4) Más de 4 años de experiencia:
+
+Version control (Git, SVN, etc.)
+WordPress
+
+>3) Más de 3 años de experiencia:
+
+MS SQL SERVER
+Servicios Web
+Windows Forms
+
+>2) Más de 2 años de experiencia:
+
+Laravel
+WPF
+
+>1) Más de 1 año de experiencia:
+
+JS tools (NPM, grunt, gulp, etc)
+React
+
+<1) Menos de 1 año de experiencia:
+
+Angular
+ASP.NET
+Java
 
 == Idiomas ==
 Inglés (reading, listening): Nivel intermedio / avanzado  

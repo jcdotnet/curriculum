@@ -10,160 +10,48 @@ Engineering, Information Technology and Software Engineering). Final grade: NOTA
 defended on 13th of March and marked as SOBRESALIENTE. University of Málaga.
 
 SKILLS
-== Computer science ==
-Total experience in years (Experience in years on projects to individuals, institutions and companies) 
-< Less than a year of experience > More than 10 years of experience 
+== Computer science (ordered by years of experience) ==
 
-== Software development ==
-Computer programming 
-> (7)
-C/C++
-1 (0)
-Python
-< (0)
-Git
-3 (<)
-Subversion
-1 (1)
+>5) MORE THAN FIVE YEARS EXPERIENCE
 
-== Microsoft ==
-C# (updated to C#6)
-6 (5)
-TypeScript
-2 (0)
-Desktop (Windows Forms)
-4 (3) 
-Desktop (WPF)
-3 (2)
-ASP.NET
-2 (1)
-ASP.NET MVC
-1 (0)
-SOAP Web services (asmx)
-4 (3)
-SOAP Web services (WCF)
-1 (1)
-REST Web services (Web API)
-1 (0)
-Reporting Services (SSRS)
-1 (0)
-Analysis Services (SSAS)
-1 (1)
-Entity Framework
-< (0)
-
-== Oracle & Java ==
-Java (updated to Java 9)	
-4 (0)
-Data Access / JDBC	
-1 (0)
-Java GUI	
-1 (0)
-Java EE	1 (<)
-Spring core, Spring MVC (updated to Spring 5)	
-< (0)
-Apache Tomcat	
-1 (1)
-Hibernate	
-< (0)
-Apache Maven	
-< (0)
-
-== Web ==
-HTTP 
-> (4)
-REST API 
-4 (1)
-HTML (updated version 5)
-> (4) 
-CSS (updated CSS3)
-> (5)
-SASS
-2 (0)
-Bootstrap (updated version 4 beta)
-3 (1)
-Foundation
-< (0)
-SEO
-1 (1)
-Firebase
-1 (0)
-
-== JavaScript ==
-JavaScript (updated ES6)  
-> (5)
-JS Library (jQuery)
-> (5)
-JS Library (rxJS)
-1 (0)
-Node.js, NPM
-3 (<)
-Express
-1 (0)
-Angular (updated version 5)
-2 (0)
-React (updated version 16) 
-1 (<)
-Vue
-< (0)
-Ionic Framework (updated version 3)
-1 (0)
-Mongoose ODM
-1 (0)
-JS Tools (grunt, gulp, webpack)
-2 (<)
-
-== PHP ==
-PHP (updated to PHP7) 
-> (4)
-Composer
-1 (0)
-Laravel (updated version 5.5)
-1 (0)
-Symfony (updated version 3)
-< (0)
-WordPress 
-3 (3)
-WooCommerce
-2 (1)
-Prestashop
-1 (<)
-Joomla!
-< (<)
-Drupal
-< (0)
-Doctrine ORM
-< (0)
-Eloquent ORM
-1 (0)
-
-== Mobile development ==
-Android development 
-2 (<)
-iOS development
-< (0)
-Material Design 
-1 (0)
-
-== Databases ==
-SQL
-> (6)  
-Relational databases
-> (6)
+Computer programing (>8)
+C#
+CSS
+HTML
+JavaScript (>6)
+jQuery
 MySQL
-7 (5)
-MongoDB
-1 (0)
+PHP
+SQL
+Web development (>6)
 
-== Other == 
-Computer architecture  
-2 (<)
-Operating systems
-> (1)
- Linux
-1 (<)
-Computer Networks 
-> (0)
+>4) MORE THAN FOUR YEARS EXPERIENCE
+
+Version control (Git, SVN, etc.)
+WordPress
+
+>3) MORE THAN THREE YEARS EXPERIENCE
+
+MS SQL SERVER
+Web services
+Windows Forms
+
+>2) MORE THAN TWO YEARS EXPERIENCE
+
+Laravel
+WPF
+
+>1) MORE THAN ONE YEAR EXPERIENCE
+
+JS tools (NPM, grunt, gulp, etc)
+React
+
+<1) LESS THAN ONE YEAR EXPERIENCE
+
+Angular
+ASP.NET
+Java
+
 
 == Languages ==
 Upper-intermediate in written English.
