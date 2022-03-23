@@ -1,5 +1,5 @@
 import React, { Component, Fragment } from 'react';
-import classes from './CustomList.css';
+import classes from './CustomList.module.css';
 import Sprite from '../../assets/sprite.svg';
 import Button from '../Button/Button';
 import Modal from '../Modal/Modal';

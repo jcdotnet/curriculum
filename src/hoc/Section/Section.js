@@ -1,5 +1,5 @@
 import React, { Component, Fragment } from 'react';
-import classes from './Section.css';
+import classes from './Section.module.css';
 import Sprite from '../../assets/sprite.svg';
 
 class cvSection extends Component { 

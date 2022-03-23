@@ -1,12 +1,12 @@
 import React from 'react';
-import classes from './Personal.css';
+import classes from './Personal.module.css';
 import jc from '../../assets/jc.jpg';
 import Sprite from '../../assets/sprite.svg'; 
 
 const personal = (props) =>  (
     <div className={classes.Personal}> 
         <img src={jc} alt="JC" className={classes.Avatar} />
-        <h1> Jose Carlos Román Rubio </h1>
+        <h1> José Carlos Román Rubio </h1>
         <h2> Software developer </h2>
         <ul>
             <li>
@@ -19,7 +19,7 @@ const personal = (props) =>  (
             </li>
             <li>
                 <svg className={classes.Icon}><use xlinkHref={Sprite + '#icon-twitter'}></use></svg>
-                <a href="https://twitter.com/jc2net">https://twitter.com/jc2net</a>
+                <a href="https://twitter.com/jcdev_">https://twitter.com/jcdev_</a>
             </li>
         </ul>
         <p>

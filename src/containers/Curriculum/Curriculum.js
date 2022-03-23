@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import classes from './Curriculum.css';
+import classes from './Curriculum.module.css';
 import axios from 'axios';
 import Section from '../../hoc/Section/Section';
 import CustomList from '../../components/CustomList/CustomList';
