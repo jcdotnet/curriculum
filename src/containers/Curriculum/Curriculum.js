@@ -14,17 +14,16 @@ class curriculum extends Component {
     }
 
     componentDidMount() {
-        axios.get('https://josecarlosroman.com/old/api/proyectos/desc')
-            .then( response =>  this.setState({projects: response.data}) )
+        axios.get('https://josecarlosroman.com/wp-json/wp/v2/project/?exclude=361090') // maybe to change the GET request
+            .then( response => this.setState({projects: response.data}) )
             .catch( error => console.log(error) );     
     }
     
-    render() 
-    {
+    render() {
         let projects = <Spinner/>
 
         if (this.state.projects)
-          projects = <CustomList items={this.state.projects.map (p => p.nombre)} object={this.state.projects}/> 
+          projects = <CustomList items={this.state.projects.map (p => p.title.rendered)} object={this.state.projects}/> 
         
         return (
             <div className={classes.Curriculum}>

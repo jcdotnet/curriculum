@@ -4,18 +4,19 @@ import classes from './Project.module.css';
 
 const project = (props) => {
     
-    let div = document.createElement("div");
-    div.innerHTML = props.project.descripcion;
-    const description = div.textContent || div.innerText || "";
+    let div = document.createElement('div');
+    div.innerHTML = props.project.excerpt.rendered;
+    const description = div.textContent || div.innerText || '';
     
     return (  
         <div className = {classes.Project}>       
             <h4> Nombre: </h4>
-                { props.project.nombre }
+            <div> { props.project.title.rendered } </div>
             <h4> Descripción: </h4>
-                { description }
+            { description }
+            <p> { props.project.project_start_date + ' - '+ props.project.project_end_date}</p>
             <h4> Más información: </h4>
-            <a href={"https://josecarlosroman.com/old/es/proyecto/" + props.project.slug } target="_blank">{"https://josecarlosroman.com/old/es/proyecto/" + props.project.slug }</a>
+            <a href={ props.project.link } target="_blank" rel="noreferrer"> Ver página del proyecto </a>
             
             {/*<span className={classes.Close} onClick={props.closed}>&times;</span> */}           
         </div>  
