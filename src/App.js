@@ -1,26 +1,23 @@
-import React, { Component, Fragment } from 'react';
 import classes from './App.module.css';
 
 import Header from './components/Header/Header';
-import Personal from './containers/Personal/Personal';
-import Curriculum from './containers/Curriculum/Curriculum';
+import Personal from './components/Personal/Personal';
+import Curriculum from './components/Curriculum/Curriculum';
 
-class App extends Component {
-  render() {
-    return (
-      <Fragment>
-        <Header />
-        <div className={classes.Content}>
-          <div className= {classes.Sidebar}>
-            <Personal/>
-          </div>
-          <div className={classes.Main}>
-            <Curriculum/>
-          </div>        
+function App() {
+  return (
+    <>
+      <Header />
+      <main className={classes.Main}>
+        <div className={classes.Sidebar}>
+          <Personal />
         </div>
-      </Fragment>
-    );
-  }
+        <div className={classes.Content}>
+          <Curriculum />
+        </div>
+      </main>
+    </>
+  );
 }
 
 export default App;

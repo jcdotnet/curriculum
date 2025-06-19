@@ -1,4 +1,4 @@
-.Content {
+.Main {
   display: flex;
   justify-content: center;
 }
@@ -8,14 +8,13 @@
   flex: 1;
 }
 
-.Main {
+.Content {
   padding: 1rem;
   flex:2;
 }
 
-
 @media (max-width: 991px) {
-  .Content {
+  .Main {
     flex-direction: column;
   }
 }

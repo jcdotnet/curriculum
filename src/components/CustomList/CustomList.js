@@ -1,4 +1,5 @@
-import React, { Component, Fragment } from 'react';
+import { useRef, useState } from "react";
+
 import classes from './CustomList.module.css';
 import Sprite from '../../assets/sprite.svg';
 import Button from '../Button/Button';
@@ -6,61 +7,41 @@ import Modal from '../Modal/Modal';
 import Spinner from '../Spinner/Spinner';
 import Project from '../Project/Project';
 
-class cvList extends Component {
-    
-    state = {
-        project: null, 
-        showingProject: false
-    }
-    
-    showProjectHandler = (event) => {
-        this.setState({project: this.props.object[event.target.id]});
-        this.setState({showingProject: true});
-    }
+function CustomList({ items, projects }) {
 
-    hideProjectHandler = () => {
-        this.setState({project: null});
-        this.setState({showingProject: false});
-    }
+	const dialog = useRef();
+	const [currentProject, setCurrentProject] = useState(undefined);
 
-    renderButton = (index) => {
-        if (this.props.object) {
-            return <Button id={index} clicked={(event)=>this.showProjectHandler(event)}>VER PROYECTO</Button>
-        }
-    }
-    
-    render() {
-        let icon = Sprite + '#icon-chevron-small-right';
-        let lista;
-        if (this.props.items)
-        {
-            const project = this.state.project ?  <Project project={this.state.project} closed ={this.hideProjectHandler}/> : <Spinner />
-            
-            let modal;
-            if (this.props.object) {
-                modal = (
-                    <Modal show={this.state.showingProject} modalClosed={this.hideProjectHandler}>
-                        {project}
-                    </Modal>  
-                )
-            }
+	const icon = Sprite + '#icon-chevron-small-right';
 
-            lista = 
-                <Fragment>
-                    <ul> 
-                    { this.props.items.map( (item, index) => <li key={index}><svg className={classes.ListIcon}><use xlinkHref={icon}></use></svg>
-                        {item} { this.renderButton(index) }</li>) }
-                    </ul>                          
-                    { modal }
-                </Fragment>
-        }
+	function handleProject(event) {
+		setCurrentProject(projects[event.target.id]);
+		dialog.current.showModal();
+	}
 
-        return (  
-            <div className={classes.List}>             
-                {lista}  
-            </div>              
-        )
-    }
-    
+	function handleCancel() {
+    setCurrentProject(null);
+  }
+
+	const renderButton = (index) => {
+		if (projects) {
+			return <Button id={index} onClick={handleProject}>VER PROYECTO</Button>
+		}
+	}
+
+	return (
+		<div className={classes.List}>
+			<Modal ref={dialog} onReset={handleCancel}>
+				{currentProject ? <Project project={currentProject} /> : <Spinner />}
+			</Modal>
+			{items && (
+				<ul>
+					{items.map((item, index) => <li key={index}><svg className={classes.ListIcon}><use xlinkHref={icon}></use></svg>
+						{item} {renderButton(index)}</li>)}
+				</ul>
+			)}
+		</div>
+	)
 }
-export default cvList;
+
+export default CustomList;

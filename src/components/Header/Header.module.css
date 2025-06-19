@@ -5,8 +5,8 @@
     background-position: top;
 
     clip-path: polygon(0 0, 100% 0%, 100% 80%, 0% 100%);
-    
-    display:flex;
+
+    display: flex;
     justify-content: center;
     align-items: center;
 
@@ -14,12 +14,13 @@
 }
 
 .HeaderText {
-    color:#F1F1F1;
+    color: #F1F1F1;
     text-transform: uppercase;
 }
 
 .HeaderTextTitle {
-    display: block;  /* span element is inline by default */
+    display: block;
+    /* span element is inline by default */
     font-size: 60px;
     font-weight: 400;
     letter-spacing: 30px;
@@ -34,6 +35,6 @@
 
 @media (max-width: 1099px) {
     .Header {
-      display:none;
+        display: none;
     }
 }
