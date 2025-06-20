@@ -11,7 +11,7 @@ export const SKILLS = [
 	{
 		id: 'development',
 		title: 'Desarrollo de software',
-		skills: ['Programming', 'Databases', 'Web services', 'Design and Analysis of Algorithms', 'Design patterns', 'Testing', 'Build tools', 'Version Control']
+		skills: ['Programming', 'Databases', 'Web services', 'Design and Analysis of Algorithms', 'Software design', 'Design patterns', 'Testing', 'Build tools', 'Version Control']
 	},
 	{
 		id: 'back',
