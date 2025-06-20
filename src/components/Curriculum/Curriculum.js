@@ -32,7 +32,7 @@ function Curriculum() {
 
 	let projectsList = <Spinner />
 
-	if ( projects )
+	if (projects)
 		projectsList = <CustomList items={projects.map(p => p.title)} projects={projects} />
 
 	return (
@@ -41,12 +41,9 @@ function Curriculum() {
 				<CustomList items={BACKGROUND.education} />
 			</Section>
 			<Section title="Conocimientos">
-				<Skill name="Lenguajes de programación" skills={SKILLS.languages} />
-				<Skill name="Back-End" skills={SKILLS.back} />
-				<Skill name="Front-End" skills={SKILLS.front} />
-				<Skill name="Aplicaciones para móvil" skills={SKILLS.mobile} />
-				<Skill name="Sistemas de gestión de contenido" skills={SKILLS.CMS} />
-				<Skill name="Entornos de desarrollo" skills={SKILLS.IDE} />
+				{SKILLS && SKILLS.map((area) => (
+					<Skill key={area.id} name={area.title} skills={area.skills} />
+				))}
 			</Section>
 			<Section title="Proyectos">
 				{projectsList}
