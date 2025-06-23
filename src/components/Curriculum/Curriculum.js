@@ -5,11 +5,21 @@ import Section from '../Section/Section';
 import CustomList from '../CustomList/CustomList';
 import Spinner from '../Spinner/Spinner';
 import Skill from '../Skill/Skill';
-import { BACKGROUND, SKILLS } from '../../shared/data';
+import { BACKGROUND } from '../../shared/data';
 
 function Curriculum() {
 
 	const [projects, setProjects] = useState([]);
+	const [skills, setSkills] = useState([]);
+
+	useEffect(() => {
+		async function fetchData() {
+			const response = await fetch('https://josecarlosroman.com/api/skills/categories');
+			const skills = await response.json();
+			setSkills(skills);
+		}
+		fetchData();
+	}, []);
 
 	useEffect(() => {
 		//axios.get('https://josecarlosroman.com/wp-json/wp/v2/project/?exclude=361090') // maybe to change the GET request
@@ -41,8 +51,8 @@ function Curriculum() {
 				<CustomList items={BACKGROUND.education} />
 			</Section>
 			<Section title="Conocimientos">
-				{SKILLS && SKILLS.map((area) => (
-					<Skill key={area.id} name={area.title} skills={area.skills} />
+				{skills.length > 0 && skills.map((area) => (
+					<Skill key={area.title} name={area.title} skills={area.skills.map(skill => skill.name)} />
 				))}
 			</Section>
 			<Section title="Proyectos">
