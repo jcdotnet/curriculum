@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# legacy CVs
+/docs
+
 # testing
 /coverage
 
