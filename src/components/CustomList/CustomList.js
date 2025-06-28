@@ -30,13 +30,13 @@ function CustomList({ items, projects }) {
 	}
 
 	return (
-		<div className={classes.List}>
+		<div className={classes.list}>
 			<Modal ref={dialog} onReset={handleCancel}>
 				{currentProject ? <Project project={currentProject} /> : <Spinner />}
 			</Modal>
 			{items && (
 				<ul>
-					{items.map((item, index) => <li key={index}><svg className={classes.ListIcon}><use xlinkHref={icon}></use></svg>
+					{items.map((item, index) => <li key={index}><svg className={classes.listIcon}><use xlinkHref={icon}></use></svg>
 						{item} {renderButton(index)}</li>)}
 				</ul>
 			)}

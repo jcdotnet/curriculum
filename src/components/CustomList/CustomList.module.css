@@ -1,27 +1,27 @@
-.List ul{
+.list ul{
     list-style-type: none;
 }
 
-.List li {
+.list li {
     display: flex;
     padding: 10px;
 }
 
-.List button {
+.list button {
     margin-left: auto;
 }
 
-.ListIcon {
+.listIcon {
     width: 1.2rem;
     height: 1.2rem;
     color: #FFF;
 }
 
 @media (max-width: 991px) {
-    .List li {
+    .list li {
         flex-direction: column;
     }
-    .ListIcon {
+    .listIcon {
         display: none;
     }  
 }

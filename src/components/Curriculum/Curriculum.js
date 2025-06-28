@@ -46,14 +46,16 @@ function Curriculum() {
 		projectsList = <CustomList items={projects.map(p => p.title)} projects={projects} />
 
 	return (
-		<div className={classes.Curriculum}>
+		<div className={classes.curriculum}>
 			<Section title="Formación">
 				<CustomList items={BACKGROUND.education} />
 			</Section>
 			<Section title="Conocimientos">
-				{skills.length > 0 && skills.map((area) => (
-					<Skill key={area.title} name={area.title} skills={area.skills.map(skill => skill.name)} />
-				))}
+				<div className={classes.skills}>
+					{skills.length > 0 && skills.map((area) => (
+						<Skill key={area.title} name={area.title} skills={area.skills.map(skill => skill.name)} />
+					))}
+				</div>
 			</Section>
 			<Section title="Proyectos">
 				{projectsList}
